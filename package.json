@@ -1,9 +1,9 @@
 {
   "type": "module",
-  "name": "@symbiotejs/symbiote",
+  "name": "@in-wave/symbiote",
   "version": "2.2.5",
   "description": "Symbiote.js - close-to-platform frontend library for building super-powered web components",
-  "author": "symbiote.js@gmail.com",
+  "author": "wave@in-wave.com",
   "license": "MIT",
   "scripts": {
     "types": "rm -rf types && tsc -p dts.cfg.json"
@@ -67,12 +67,12 @@
     "access": "public"
   },
   "bugs": {
-    "url": "https://github.com/symbiotejs/symbiote.js/issues"
+    "url": "https://github.com/in-wave/symbiote/issues"
   },
-  "homepage": "https://symbiotejs.org/",
+  "homepage": "https://symbiote.in-wave.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/symbiotejs/symbiote.js.git"
+    "url": "https://github.com/in-wave/symbiote.git"
   },
   "keywords": [
     "web components",

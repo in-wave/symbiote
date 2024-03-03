@@ -1,5 +1,3 @@
-[![npm version](https://badge.fury.io/js/@symbiotejs%2Fsymbiote.svg)](https://badge.fury.io/js/@symbiotejs%2Fsymbiote)
-
 # Symbiote.js
 
 Simple, light and very powerful library to create embedded components for any purpose, with a data flow management included.
@@ -68,7 +66,7 @@ The easiest way to try Symbiote.js is to create a simple `html` file in your tex
 
 ```html
 <script type="module">
-  import Symbiote, { html } from 'https://symbiotejs.github.io/symbiote.js/core/Symbiote.js';
+  import Symbiote, { html } from 'https://in-wave.com/symbiote/core/Symbiote.js';
 
   class MyComponent extends Symbiote {
     init$ = {
@@ -94,8 +92,8 @@ The easiest way to try Symbiote.js is to create a simple `html` file in your tex
 
 ## 🧜‍♀️ Dive deeper
 Check the project documentation for details:
-* [symbiotejs.org](https://symbiotejs.org/)
-* [Docs on GitHub](https://github.com/symbiotejs/docsite/tree/main/md)
+* [Symbiote.wave](https://symbiote.in-wave.com/)
+* [SymbioteDocs on GitHub](https://github.com/in-wave/symbiote.doc/tree/wave/md)
 
 ## ✅ Browser support
 Symbiote.js is supported and tested in all major modern desktop and mobile browsers: 
@@ -108,10 +106,6 @@ Symbiote.js is supported and tested in all major modern desktop and mobile brows
 
 **Internet Explorer** - is outdated and not supported anymore.
 
-## 💰 General sponsor
-Big thanks to 🟡 **Uploadcare** for supporting this project!
-
-> https://uploadcare.com/
 
 ## 🌎 Useful external links
 * https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements
@@ -119,4 +113,4 @@ Big thanks to 🟡 **Uploadcare** for supporting this project!
 * https://custom-elements-everywhere.com
 * https://open-wc.org/
 
-**If you have questions or proposals - welcome to [Symbiote Discussions](https://github.com/symbiotejs/symbiote.js/discussions)!** ❤️
+**If you have questions or proposals - welcome to [Symbiote Discussions](https://github.com/in-wave/symbiote/discussions)!** ❤️
